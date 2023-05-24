@@ -214,7 +214,7 @@ In this task, you will be adding the Installation Specialist, Site Inspector, an
 
     ![](../images/resource-roles-4.png)
 
-1. In **Field Service** app, Navigate to **Services** -> **Resource** -> **Categories**.
+1. In **Field Service** app, Navigate to **Services** -> **Resources** -> **Categories**.
 
     ![](../images/resource-roles-5.png)
 
